@@ -32,7 +32,19 @@ Este projeto atende integralmente aos requisitos propostos para a disciplina, co
 
 5. **Gráfico do Comportamento da Rede ao Longo das Interações**:
    - Gráficos foram gerados para visualizar o comportamento das redes durante o treinamento ao longo das épocas.
+  
+### Scripts Disponíveis
 
+Além do Jupyter Notebook principal (`twitter_bots_analysis.ipynb`), este repositório contém o seguinte scripts em Python:
+
+- **Script de Visualização de Dados (`visualization_script.py`):** Este script gera gráficos e visualizações dos dados para auxiliar na análise exploratória.
+
+  #### Como Executar
+  1. Certifique-se de que todas as dependências estão instaladas.
+  2. Execute o script com o seguinte comando:
+
+  ```sh
+  python visualization_script.py
 
 ## Fonte do Conjunto de Dados
 
